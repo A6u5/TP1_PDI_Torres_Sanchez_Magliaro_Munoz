@@ -10,6 +10,7 @@ Consigna completa en [TUIA_PDI_TP1_2026_C2.pdf](TUIA_PDI_TP1_2026_C2.pdf).
 * Agustín Torres
 * Facundo Ángel Magliaro
 * Aldana Desiré Sánchez
+* Sebastián Muñoz
 
 ## Instalación
 
